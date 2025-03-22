@@ -4,6 +4,12 @@ DDNS client for [DDNS Now](https://ddns.kuku.lu/).
 
 NOTE: This is my first project to use Go; more of a practice execise to getting used to the language, so don't trust this codebaes!
 
+## NOTICE: this script will not work
+
+The owner of ip4.me/ip6.me, Kevin Loch, passed away.
+
+Due to ip4.me shutting down on Apr.1,2025, this script will not work in the near future.
+
 ## Install
 
 ### Config File
